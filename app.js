@@ -2,4 +2,4 @@ function hello(name) {
 console.log("hello " + name)
 }
 
-hello("Bajram");
+hello("Bajrama");
