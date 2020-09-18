@@ -11,4 +11,6 @@ function log(input){
     console.log(time + " " + input)
 }
 
+
+
 log("Successfull Checkout")
